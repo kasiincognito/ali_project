@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #CC3181;
+}
+.logo{
+    height:70px;
+    width:70px;
+}
+header{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    box-shadow: 2px 0px 30px black;
+    background-color:#CC3181;
+}
